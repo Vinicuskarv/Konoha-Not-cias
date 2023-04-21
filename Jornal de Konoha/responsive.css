@@ -1,0 +1,201 @@
+@media screen and (min-width: 2001px) {
+    #secondary{
+        top: 30px;
+        height: 1450px;
+    }
+    #primary{
+        top: 30px;
+        height: 1175px;
+    }
+    .mini-noticia-img{
+        width: 250px;
+        height: 200px;
+    }
+    #noticia-import{
+        top: 30px;
+        height: 1175px;
+    }
+    #primary h1{
+        font-size: 80px
+    }
+    #secondary h1{
+        font-size: 50px;
+        margin: 0;
+    }
+    main p{
+        font-size: 50px;
+        margin:60px;
+    }
+    .mini-notic h1 a{
+        margin:-200px 0 0 200px;
+        font-size: 45px;   
+    }
+    .mini-notic p{
+        font-size: 40px;
+        color: rgba(0, 0, 0, 0.733);
+    }
+    #menu{
+        font-size: 40px;
+        top: 10px;
+    }
+    header h1{
+        font-size: 50px;
+        margin: 0;
+    }
+    header section img{
+        height: 140px;
+        width: 140px;
+        margin: -60px 0 0 0; 
+
+    }
+}
+@media screen and (max-width: 2000px) {
+    #secondary{
+        top: 30px;
+        height: 1050px;
+    }
+    #primary{
+        top: 30px;
+        height: 1175px;
+    }
+}
+@media screen and (max-width: 1023px) {
+    #secondary h1{
+        font-size: 20px;
+    }
+    #secondary a{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 851px) {
+    header h1{
+        margin: 18px 18px;;
+    }
+    #secondary{
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 90%;
+        margin: 0 7px 0 40px
+        
+    }
+    #secondary h1{
+        font-size: 30px;
+        margin: 0 ;  
+    }
+    #secondary a{
+        position: absolute;
+        font-size: 25px;
+        margin: -170px 0 0 340px
+    }
+    #secondary p{
+        position: absolute;
+        margin: -130px 0 0 340px;
+    }
+    .img-propagandas{
+        align-items: center;
+        width: 300px;
+    }
+    .unidade-propaganda{
+        margin: 0 0 0 100px;
+    }
+    #primary{
+        position: relative;
+        margin: 115px 7px 0 40px;
+        width: 90%;
+    }
+    main p{
+        margin: 20px 15px 10px 20px;
+    }
+}
+@media screen and (max-width:808px){
+    .unidade-propaganda{
+        margin: 0 0 0 60px;
+    }
+}
+@media screen and (max-width:763px){
+    .unidade-propaganda{
+        margin: 0 0 0 36px;
+    }
+    .img-propagandas{
+        width: 250px;
+    }
+    #secondary p{
+        position: absolute;
+        margin: -80px 0 0 280px;
+    }
+    #secondary a{
+        position: absolute;
+        margin: -140px 0 0 280px;
+    }
+    #menu a{
+        margin: 0 20px;
+    }
+    #secondary h1{
+        font-size: 30px;
+        margin: 0 0 0 50px;
+        text-align:left;
+    }
+    #primary .txth1{
+        margin: 0 0 0 20px;
+    }
+}
+@media screen and (max-width: 675px){
+    #menu a{
+        margin: 0 10px;
+    }
+}
+@media screen and (max-width: 569px){
+    .img-propagandas{
+        width: 180px;
+    }
+    #secondary p{
+        position: absolute;
+        margin: -60px 0 0 210px;
+    }
+    #secondary a{
+        position: absolute;
+        margin: -110px 0 0 210px;
+    }
+    #primary p{    
+     margin: 0 15px 10px 20px;   
+    }
+    #menu a{
+        margin: 0 2px;
+    }
+    .mini-notic{
+        margin: 20px 0 5px 20px;
+    }
+    .unidade-propaganda{
+        margin: 0;
+    }
+    header h1{
+        margin: 18px 23px;
+    }
+}
+@media screen and (max-width: 510px){
+    #primary{
+        margin: 114px 0 10px 0;
+        width: 100%;
+    }
+    #secondary{
+        margin: 0;
+        width: 100%;
+    }
+    #menu{
+        height:0;
+        top: 60%;
+        left: 128px;
+    }
+    header h1{
+        margin: 5px 0 0 128px;
+    }
+}
+@media screen and (max-width: 426px){
+    #menu{
+        left: 110px;
+    }
+    header h1{
+        margin: 5px 0 0 110px;
+    }
+}
